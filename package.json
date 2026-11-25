@@ -1,0 +1,17 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Expense Tracker frontend and Express API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
